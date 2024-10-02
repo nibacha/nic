@@ -16,7 +16,7 @@ Hello! Welcome to my repository
 # Links
 - [Google] (https://google.com)
 - [George Brown] (https://www.georgebrown.ca/)
-- [Github] (https://github.com/memelolp)
+- [Github] (https://github.com/nibacha)
 
 # Experiments
 - :blue_heart: :purple_heart: :heart:
