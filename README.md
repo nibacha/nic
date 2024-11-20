@@ -36,3 +36,5 @@ The keyboard shortcuts I use the most are:
 Some keyboard shortcuts I would like to start using are:
 - Ctrl + Back, Ctrl + Forward (Swap Between Tabs) (I always forget this)
 - Win+D (Show Desktop)
+
+[CLI Commands](docs/cli.md)
